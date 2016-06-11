@@ -25,9 +25,9 @@ public class RechargeRepo {
 			System.out.println("got data");
 			return ur;
 		}
-		 else{
+		
 		return null;
-	}
+
 	}
 	
 	public List<Object> displayTag(){
